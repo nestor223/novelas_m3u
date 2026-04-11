@@ -1,4 +1,8 @@
 #EXTM3U
+
+#===============================================
+#              100 DÍAS PARA ENAMORARNOS T1
+#===============================================
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/09/24/17/07/4704719.jpg" group-title="100 días para enamorarnos T1",Cap. 01
 http://series.tuxchannel.mx/series/100_dias_para_enamorarnos/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/09/24/17/07/4704719.jpg" group-title="100 días para enamorarnos T1",Cap. 02
@@ -114,6 +118,9 @@ http://series.tuxchannel.mx/series/100_dias_para_enamorarnos/s_01_e_56.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/09/24/17/07/4704719.jpg" group-title="100 días para enamorarnos T1",Cap. 57
 http://series.tuxchannel.mx/series/100_dias_para_enamorarnos/s_01_e_57.mkv
 
+#===============================================
+#              100 DÍAS PARA ENAMORARNOS T2
+#===============================================
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/20/09/24/16/55/0631026.jpg" group-title="100 días para enamorarnos T2",Cap. 01
 http://series.tuxchannel.mx/series/100_dias_para_enamorarnos/s_02_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/20/09/24/16/55/0631026.jpg" group-title="100 días para enamorarnos T2",Cap. 02
@@ -185,6 +192,9 @@ http://series.tuxchannel.mx/series/100_dias_para_enamorarnos/s_02_e_34.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/20/09/24/16/55/0631026.jpg" group-title="100 días para enamorarnos T2",Cap. 35
 http://series.tuxchannel.mx/series/100_dias_para_enamorarnos/s_02_e_35.mkv
 
+#===============================================
+#              AMANECER
+#===============================================
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lSPRgElD3bCqqgR8upkz3trilkI.jpg" group-title="Amanecer",Cap. 001
 http://series.tuxchannel.mx/series/amanecer/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lSPRgElD3bCqqgR8upkz3trilkI.jpg" group-title="Amanecer",Cap. 002
@@ -344,6 +354,9 @@ http://series.tuxchannel.mx/series/amanecer/s_01_e_79.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lSPRgElD3bCqqgR8upkz3trilkI.jpg" group-title="Amanecer",Cap. 079
 http://series.tuxchannel.mx/series/amanecer/s_01_e_80.mkv
 
+#===============================================
+#              A.MAR
+#===============================================
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rykqDB0AG4K7rt9plSTULUxDHok.jpg" group-title="A.Mar",Cap. 001
 http://series.tuxchannel.mx/series/amar/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rykqDB0AG4K7rt9plSTULUxDHok.jpg" group-title="A.Mar",Cap. 002
@@ -523,6 +536,9 @@ http://series.tuxchannel.mx/series/amar/s_01_e_89.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rykqDB0AG4K7rt9plSTULUxDHok.jpg" group-title="A.Mar",Cap. 089
 http://series.tuxchannel.mx/series/amar/s_01_e_90.mkv
 
+#===============================================
+#              AMOR AMARGO
+#===============================================
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u8TkzDfknYHbx0NEsD8TSzw3M5f.jpg" group-title="Amor amargo",Cap. 001
 http://series.tuxchannel.mx/series/amor_amargo/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u8TkzDfknYHbx0NEsD8TSzw3M5f.jpg" group-title="Amor amargo",Cap. 002
@@ -684,6 +700,9 @@ http://series.tuxchannel.mx/series/amor_amargo/s_01_e_81.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u8TkzDfknYHbx0NEsD8TSzw3M5f.jpg" group-title="Amor amargo",Cap. 080
 http://series.tuxchannel.mx/series/amor_amargo/s_01_e_82.mkv
 
+#===============================================
+#              AMOR DIVIDIDO
+#===============================================
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9fmYGE1sUzEg69UH7qTIbWcSO9c.jpg" group-title="Amor dividido",Cap. 001
 http://series.tuxchannel.mx/series/amor_dividido/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9fmYGE1sUzEg69UH7qTIbWcSO9c.jpg" group-title="Amor dividido",Cap. 002
@@ -897,6 +916,9 @@ http://series.tuxchannel.mx/series/amor_dividido/s_01_e_105.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9fmYGE1sUzEg69UH7qTIbWcSO9c.jpg" group-title="Amor dividido",Cap. 106
 http://series.tuxchannel.mx/series/amor_dividido/s_01_e_106.mkv
 
+#===============================================
+#              BUSCANDO A FRIDA
+#===============================================
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/jpXAkjCgMOZ2HkrAkgLk9pNUWPs.jpg" group-title="Buscando a Frida",Cap. 01
 http://series.tuxchannel.mx/series/buscando_a_frida/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/jpXAkjCgMOZ2HkrAkgLk9pNUWPs.jpg" group-title="Buscando a Frida",Cap. 02
@@ -1066,6 +1088,9 @@ http://series.tuxchannel.mx/series/buscando_a_frida/s_01_e_83.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/jpXAkjCgMOZ2HkrAkgLk9pNUWPs.jpg" group-title="Buscando a Frida",Cap. 84
 http://series.tuxchannel.mx/series/buscando_a_frida/s_01_e_84.mkv
 
+#===============================================
+#              CABO
+#===============================================
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/10/w1280/zHq8zcFj8GjBVVa5778NR3LzoDJ.jpg" group-title="Cabo",Cap. 01
 http://series.tuxchannel.mx/series/cabo/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/10/w1280/zHq8zcFj8GjBVVa5778NR3LzoDJ.jpg" group-title="Cabo",Cap. 02
@@ -1237,6 +1262,9 @@ http://series.tuxchannel.mx/series/cabo/s_01_e_84.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/10/w1280/zHq8zcFj8GjBVVa5778NR3LzoDJ.jpg" group-title="Cabo",Cap. 85 Final
 http://series.tuxchannel.mx/series/cabo/s_01_e_85.mkv
 
+#===============================================
+#              CAFE CON AROMA DE MUJER
+#===============================================
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/21/11/29/10/09/4838537.jpg" group-title="Cafe con aroma de mujer",Cap. 01
 http://series.tuxchannel.mx/series/cafe_con_aroma_de_mujer/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/21/11/29/10/09/4838537.jpg" group-title="Cafe con aroma de mujer",Cap. 02
@@ -1422,6 +1450,9 @@ http://series.tuxchannel.mx/series/cafe_con_aroma_de_mujer/s_01_e_91.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/21/11/29/10/09/4838537.jpg" group-title="Cafe con aroma de mujer",Cap. 92
 http://series.tuxchannel.mx/series/cafe_con_aroma_de_mujer/s_01_e_92.mkv
 
+#===============================================
+#              CAUTIVA POR AMOR
+#===============================================
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cVmQzCtlr41Sjmj9X6nNbVRVk6T.jpg" group-title="Cautiva por amor",Cap. 001
 http://series.tuxchannel.mx/series/cautiva_por_amor/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cVmQzCtlr41Sjmj9X6nNbVRVk6T.jpg" group-title="Cautiva por amor",Cap. 002
@@ -1557,6 +1588,9 @@ http://series.tuxchannel.mx/series/cautiva_por_amor/s_01_e_68.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cVmQzCtlr41Sjmj9X6nNbVRVk6T.jpg" group-title="Cautiva por amor",Cap. 067
 http://series.tuxchannel.mx/series/cautiva_por_amor/s_01_e_70.mkv
 
+#===============================================
+#              CONTIGO SI
+#===============================================
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwYzY4ODAtNzM2OC00MGM4LTgyYmQtN2QwMWM0NDM2MmQ4XkEyXkFqcGdeQXVyMzQxNzU3NA@@._V1_FMjpg_UX1000_.jpg" group-title="Contigo si",Cap. 001
 http://series.tuxchannel.mx/series/contigo_si/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwYzY4ODAtNzM2OC00MGM4LTgyYmQtN2QwMWM0NDM2MmQ4XkEyXkFqcGdeQXVyMzQxNzU3NA@@._V1_FMjpg_UX1000_.jpg" group-title="Contigo si",Cap. 002
@@ -1798,6 +1832,9 @@ http://series.tuxchannel.mx/series/contigo_si/s_01_e_119.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwYzY4ODAtNzM2OC00MGM4LTgyYmQtN2QwMWM0NDM2MmQ4XkEyXkFqcGdeQXVyMzQxNzU3NA@@._V1_FMjpg_UX1000_.jpg" group-title="Contigo si",Cap. 120
 http://series.tuxchannel.mx/series/contigo_si/s_01_e_120.mkv
 
+#===============================================
+#              CORAZÓN DE ORO
+#===============================================
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/telenovela-database/images/9/9c/Corazon-de-oro.jpg" group-title="Corazón de oro",Cap. 001
 http://series.tuxchannel.mx/series/corazon_de_oro/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/telenovela-database/images/9/9c/Corazon-de-oro.jpg" group-title="Corazón de oro",Cap. 002
@@ -1839,6 +1876,9 @@ http://series.tuxchannel.mx/series/corazon_de_oro/s_01_e_19.mkv
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/telenovela-database/images/9/9c/Corazon-de-oro.jpg" group-title="Corazón de oro",Cap. 020
 http://series.tuxchannel.mx/series/corazon_de_oro/s_01_e_20.mkv
 
+#===============================================
+#              CORAZON GUERRERO
+#===============================================
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/3/w1280/ewjLqzw6OtiGkTBOmmq0jGexBSa.jpg" group-title="Corazon guerrero",Cap. 001
 http://series.tuxchannel.mx/series/corazon_guerrero/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/3/w1280/ewjLqzw6OtiGkTBOmmq0jGexBSa.jpg" group-title="Corazon guerrero",Cap. 002
@@ -2080,6 +2120,9 @@ http://series.tuxchannel.mx/series/corazon_guerrero/s_01_e_119.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/3/w1280/ewjLqzw6OtiGkTBOmmq0jGexBSa.jpg" group-title="Corazon guerrero",Cap. 120
 http://series.tuxchannel.mx/series/corazon_guerrero/s_01_e_120.mkv
 
+#===============================================
+#              CUNA DE LOBOS
+#===============================================
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/17/87/34/178734d14363691015ce7f42a9361a6a.jpg" group-title="Cuna de lobos",Cap. 01
 http://series.tuxchannel.mx/series/cuna_de_lobos/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/17/87/34/178734d14363691015ce7f42a9361a6a.jpg" group-title="Cuna de lobos",Cap. 02
@@ -2131,6 +2174,9 @@ http://series.tuxchannel.mx/series/cuna_de_lobos/s_01_e_24.mkv
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/17/87/34/178734d14363691015ce7f42a9361a6a.jpg" group-title="Cuna de lobos",Cap. 25
 http://series.tuxchannel.mx/series/cuna_de_lobos/s_01_e_25.mkv
 
+#===============================================
+#              DECISIONES: UNOS GANAN OTROS PIERDEN
+#===============================================
 #EXTINF:-1 tvg-logo="https://www.cine.com/media/series/3691_w500.jpg" group-title="Decisiones: unos ganan otros pierden",Cap. 01
 http://series.tuxchannel.mx/series/decisiones_unos_ganan_otros_pierden/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://www.cine.com/media/series/3691_w500.jpg" group-title="Decisiones: unos ganan otros pierden",Cap. 02
@@ -2186,6 +2232,9 @@ http://series.tuxchannel.mx/series/decisiones_unos_ganan_otros_pierden/s_01_e_26
 #EXTINF:-1 tvg-logo="https://www.cine.com/media/series/3691_w500.jpg" group-title="Decisiones: unos ganan otros pierden",Cap. 27
 http://series.tuxchannel.mx/series/decisiones_unos_ganan_otros_pierden/s_01_e_27.mkv
 
+#===============================================
+#              DINASTÍA CASILLAS
+#===============================================
 #EXTINF:-1 tvg-logo="https://pictures.betaseries.com/fonds/poster/471a68cdd17ed4d57594ae6ccb40a676.jpg" group-title="Dinastía Casillas",Cap. 001
 http://series.tuxchannel.mx/series/dinastia_casillas/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://pictures.betaseries.com/fonds/poster/471a68cdd17ed4d57594ae6ccb40a676.jpg" group-title="Dinastía Casillas",Cap. 002
@@ -2363,6 +2412,9 @@ http://series.tuxchannel.mx/series/dinastia_casillas/s_01_e_88.mkv
 #EXTINF:-1 tvg-logo="https://pictures.betaseries.com/fonds/poster/471a68cdd17ed4d57594ae6ccb40a676.jpg" group-title="Dinastía Casillas",Cap. 088
 http://series.tuxchannel.mx/series/dinastia_casillas/s_01_e_89.mkv
 
+#===============================================
+#              DISEÑANDO TU AMOR
+#===============================================
 #EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/4/4e/Dise%C3%B1ando_tu_amor.jpg/1200px-Dise%C3%B1ando_tu_amor.jpg" group-title="Diseñando tu amor",Cap. 001
 http://series.tuxchannel.mx/series/disenando_tu_amor/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/4/4e/Dise%C3%B1ando_tu_amor.jpg/1200px-Dise%C3%B1ando_tu_amor.jpg" group-title="Diseñando tu amor",Cap. 002
@@ -2604,6 +2656,9 @@ http://series.tuxchannel.mx/series/disenando_tu_amor/s_01_e_119.mkv
 #EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/4/4e/Dise%C3%B1ando_tu_amor.jpg/1200px-Dise%C3%B1ando_tu_amor.jpg" group-title="Diseñando tu amor",Cap. 120
 http://series.tuxchannel.mx/series/disenando_tu_amor/s_01_e_120.mkv
 
+#===============================================
+#              DOMÉNICA MONTERO
+#===============================================
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sxMG0R9HTHvJvyTHYNP9Ij55YxS.jpg" group-title="Doménica Montero",Cap. 001
 http://series.tuxchannel.mx/series/domenica_montero/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sxMG0R9HTHvJvyTHYNP9Ij55YxS.jpg" group-title="Doménica Montero",Cap. 002
@@ -2703,6 +2758,9 @@ http://series.tuxchannel.mx/series/domenica_montero/s_01_e_49.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sxMG0R9HTHvJvyTHYNP9Ij55YxS.jpg" group-title="Doménica Montero",Cap. 049
 http://series.tuxchannel.mx/series/domenica_montero/s_01_e_50.mkv
 
+#===============================================
+#              EL AMOR INVENCIBLE
+#===============================================
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/2/w1280/i6zwenRLASRRKTklSW4r1IAiLKP.jpg" group-title="El amor invencible",Cap. 01
 http://series.tuxchannel.mx/series/el_amor_invencible/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/2/w1280/i6zwenRLASRRKTklSW4r1IAiLKP.jpg" group-title="El amor invencible",Cap. 02
@@ -2864,6 +2922,9 @@ http://series.tuxchannel.mx/series/el_amor_invencible/s_01_e_79.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/2/w1280/i6zwenRLASRRKTklSW4r1IAiLKP.jpg" group-title="El amor invencible",Cap. 80
 http://series.tuxchannel.mx/series/el_amor_invencible/s_01_e_80.mkv
 
+#===============================================
+#              EL AMOR NO TIENE RECETA
+#===============================================
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fDRy8B1KdapuvBsgkCkEETY4MNr.jpg" group-title="El amor no tiene receta",Cap. 01
 http://series.tuxchannel.mx/series/el_amor_no_tiene_receta/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fDRy8B1KdapuvBsgkCkEETY4MNr.jpg" group-title="El amor no tiene receta",Cap. 02
@@ -3049,6 +3110,9 @@ http://series.tuxchannel.mx/series/el_amor_no_tiene_receta/s_01_e_94.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fDRy8B1KdapuvBsgkCkEETY4MNr.jpg" group-title="El amor no tiene receta",Cap. 92
 http://series.tuxchannel.mx/series/el_amor_no_tiene_receta/s_01_e_95.mkv
 
+#===============================================
+#              EL ANGEL DE AURORA
+#===============================================
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/AjsHduI.jpeg" group-title="El angel de Aurora",Cap. 001
 http://series.tuxchannel.mx/series/el_angel_de_aurora/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/AjsHduI.jpeg" group-title="El angel de Aurora",Cap. 002
@@ -3316,6 +3380,9 @@ http://series.tuxchannel.mx/series/el_angel_de_aurora/s_01_e_135.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/AjsHduI.jpeg" group-title="El angel de Aurora",Cap. 133
 http://series.tuxchannel.mx/series/el_angel_de_aurora/s_01_e_136.mkv
 
+#===============================================
+#              EL CARTEL DE LOS SAPOS: EL ORIGEN
+#===============================================
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/A17Rt6BLHno0puR1QXbsSKhBfA4.jpg" group-title="El cartel de los sapos: El origen",Cap. 01
 http://series.tuxchannel.mx/series/el_cartel_de_los_sapos_el_origen/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/A17Rt6BLHno0puR1QXbsSKhBfA4.jpg" group-title="El cartel de los sapos: El origen",Cap. 02
@@ -3437,6 +3504,9 @@ http://series.tuxchannel.mx/series/el_cartel_de_los_sapos_el_origen/s_01_e_59.mk
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/A17Rt6BLHno0puR1QXbsSKhBfA4.jpg" group-title="El cartel de los sapos: El origen",Cap. 60
 http://series.tuxchannel.mx/series/el_cartel_de_los_sapos_el_origen/s_01_e_60.mkv
 
+#===============================================
+#              EL CONDE: AMOR Y HONOR
+#===============================================
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/DRrOvT2.jpeg" group-title="El conde: Amor y honor",Cap. 001
 http://series.tuxchannel.mx/series/el_conde_amor_y_honor/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/DRrOvT2.jpeg" group-title="El conde: Amor y honor",Cap. 002
@@ -3584,6 +3654,9 @@ http://series.tuxchannel.mx/series/el_conde_amor_y_honor/s_01_e_74.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/DRrOvT2.jpeg" group-title="El conde: Amor y honor",Cap. 073
 http://series.tuxchannel.mx/series/el_conde_amor_y_honor/s_01_e_75.mkv
 
+#===============================================
+#              EL PRECIO DE AMARTE
+#===============================================
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/EQlsG5M.jpeg" group-title="El precio de amarte",Cap. 001
 http://series.tuxchannel.mx/series/el_precio_de_amarte/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/EQlsG5M.jpeg" group-title="El precio de amarte",Cap. 002
@@ -3685,6 +3758,9 @@ http://series.tuxchannel.mx/series/el_precio_de_amarte/s_01_e_49.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/EQlsG5M.jpeg" group-title="El precio de amarte",Cap. 050
 http://series.tuxchannel.mx/series/el_precio_de_amarte/s_01_e_50.mkv
 
+#===============================================
+#              EL SEÑOR DE LOS CIELOS T7
+#===============================================
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rtFng4mHDtE7vEwiDJZikyODloc.jpg" group-title="El señor de los cielos T7",Cap. 01
 http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_07_e_01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rtFng4mHDtE7vEwiDJZikyODloc.jpg" group-title="El señor de los cielos T7",Cap. 02
@@ -3836,6 +3912,9 @@ http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_07_e_74.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rtFng4mHDtE7vEwiDJZikyODloc.jpg" group-title="El señor de los cielos T7",Cap. 75
 http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_07_e_75.mkv
 
+#===============================================
+#              EL SEÑOR DE LOS CIELOS T8
+#===============================================
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kiH4ukQGsBogLfFrG6jBT1L9L6I.jpg" group-title="El señor de los cielos T8",Cap. 01
 http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_08_e_01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kiH4ukQGsBogLfFrG6jBT1L9L6I.jpg" group-title="El señor de los cielos T8",Cap. 02
@@ -4013,6 +4092,9 @@ http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_08_e_87.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kiH4ukQGsBogLfFrG6jBT1L9L6I.jpg" group-title="El señor de los cielos T8",Cap. 88
 http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_08_e_88.mkv
 
+#===============================================
+#              EL SEÑOR DE LOS CIELOS T9
+#===============================================
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zZpUXhuHQDgfSTd5NU11CnHKC60.jpg" group-title="El señor de los cielos T9",Cap. 01
 http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_09_e_01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zZpUXhuHQDgfSTd5NU11CnHKC60.jpg" group-title="El señor de los cielos T9",Cap. 02
@@ -4198,6 +4280,9 @@ http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_09_e_94.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zZpUXhuHQDgfSTd5NU11CnHKC60.jpg" group-title="El señor de los cielos T9",Cap. 92
 http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_09_e_94.mkv
 
+#===============================================
+#              FALSA IDENTIDAD
+#===============================================
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/04/03/11/12/1800318.jpg" group-title="Falsa identidad",Cap. 01
 http://series.tuxchannel.mx/series/falsa_identidad/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/04/03/11/12/1800318.jpg" group-title="Falsa identidad",Cap. 02
@@ -4377,6 +4462,9 @@ http://series.tuxchannel.mx/series/falsa_identidad/s_01_e_88.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/04/03/11/12/1800318.jpg" group-title="Falsa identidad",Cap. 89
 http://series.tuxchannel.mx/series/falsa_identidad/s_01_e_89.mkv
 
+#===============================================
+#              FUEGO ARDIENTE
+#===============================================
 #EXTINF:-1 tvg-logo="https://www.cine.com/media/series/3790_w500.jpg" group-title="Fuego ardiente",Cap. 01
 http://series.tuxchannel.mx/series/fuego_ardiente/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://www.cine.com/media/series/3790_w500.jpg" group-title="Fuego ardiente",Cap. 02
@@ -4548,6 +4636,9 @@ http://series.tuxchannel.mx/series/fuego_ardiente/s_01_e_84.mkv
 #EXTINF:-1 tvg-logo="https://www.cine.com/media/series/3790_w500.jpg" group-title="Fuego ardiente",Cap. 85
 http://series.tuxchannel.mx/series/fuego_ardiente/s_01_e_85.mkv
 
+#===============================================
+#              HASTA QUE LA PLATA NOS SEPARE
+#===============================================
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/10/14/11/55/1823859.jpg" group-title="Hasta que la plata nos separe",Cap. 01
 http://series.tuxchannel.mx/series/hasta_que_la_plata_nos_separe/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/10/14/11/55/1823859.jpg" group-title="Hasta que la plata nos separe",Cap. 02
@@ -4725,6 +4816,9 @@ http://series.tuxchannel.mx/series/hasta_que_la_plata_nos_separe/s_01_e_87.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/10/14/11/55/1823859.jpg" group-title="Hasta que la plata nos separe",Cap. 88
 http://series.tuxchannel.mx/series/hasta_que_la_plata_nos_separe/s_01_e_88.mkv
 
+#===============================================
+#              HERMANAS: UN AMOR COMPARTIDO
+#===============================================
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wyumt3DAtHs9X8siZsopH7FjKLl.jpg" group-title="Hermanas: Un amor compartido",Cap. 001
 http://series.tuxchannel.mx/series/hermanas_un_amor_compartido/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wyumt3DAtHs9X8siZsopH7FjKLl.jpg" group-title="Hermanas: Un amor compartido",Cap. 002
@@ -4802,6 +4896,9 @@ http://series.tuxchannel.mx/series/hermanas_un_amor_compartido/s_01_e_39.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wyumt3DAtHs9X8siZsopH7FjKLl.jpg" group-title="Hermanas: Un amor compartido",Cap. 038
 http://series.tuxchannel.mx/series/hermanas_un_amor_compartido/s_01_e_40.mkv
 
+#===============================================
+#              IMPERIO DE MENTIRAS
+#===============================================
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/5adCPn5cthQcTN1q1e45gYD6v3Z.jpg" group-title="Imperio de mentiras",Cap. 01
 http://series.tuxchannel.mx/series/imperio_de_mentiras/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/5adCPn5cthQcTN1q1e45gYD6v3Z.jpg" group-title="Imperio de mentiras",Cap. 02
@@ -4985,6 +5082,9 @@ http://series.tuxchannel.mx/series/imperio_de_mentiras/s_01_e_90.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/5adCPn5cthQcTN1q1e45gYD6v3Z.jpg" group-title="Imperio de mentiras",Cap. 91
 http://series.tuxchannel.mx/series/imperio_de_mentiras/s_01_e_91.mkv
 
+#===============================================
+#              JUEGO DE MENTIRAS
+#===============================================
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Juego_de_mentiras_poster.jpg/250px-Juego_de_mentiras_poster.jpg" group-title="Juego de mentiras",Cap. 01
 http://series.tuxchannel.mx/series/juego_de_mentiras/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Juego_de_mentiras_poster.jpg/250px-Juego_de_mentiras_poster.jpg" group-title="Juego de mentiras",Cap. 02
@@ -5138,6 +5238,9 @@ http://series.tuxchannel.mx/series/juego_de_mentiras/s_01_e_75.mkv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Juego_de_mentiras_poster.jpg/250px-Juego_de_mentiras_poster.jpg" group-title="Juego de mentiras",Cap. 76
 http://series.tuxchannel.mx/series/juego_de_mentiras/s_01_e_76.mkv
 
+#===============================================
+#              JUEGOS DE AMOR Y PODER
+#===============================================
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fVubci6XgZnlVLkqhtS3vnkYWQH.jpg" group-title="Juegos de amor y poder",Cap. 001
 http://series.tuxchannel.mx/series/juegos_de_amor_y_poder/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fVubci6XgZnlVLkqhtS3vnkYWQH.jpg" group-title="Juegos de amor y poder",Cap. 002
@@ -5275,6 +5378,9 @@ http://series.tuxchannel.mx/series/juegos_de_amor_y_poder/s_01_e_69.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fVubci6XgZnlVLkqhtS3vnkYWQH.jpg" group-title="Juegos de amor y poder",Cap. 068
 http://series.tuxchannel.mx/series/juegos_de_amor_y_poder/s_01_e_70.mkv
 
+#===============================================
+#              LA DESALMADA
+#===============================================
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/22/02/17/13/04/1534035.jpg" group-title="La desalmada",Cap. 01
 http://series.tuxchannel.mx/series/la_desalmada/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/22/02/17/13/04/1534035.jpg" group-title="La desalmada",Cap. 02
@@ -5446,6 +5552,9 @@ http://series.tuxchannel.mx/series/la_desalmada/s_01_e_84.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/22/02/17/13/04/1534035.jpg" group-title="La desalmada",Cap. 85
 http://series.tuxchannel.mx/series/la_desalmada/s_01_e_85.mkv
 
+#===============================================
+#              LA HERENCIA
+#===============================================
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDU4M2YzMDEtOTIyNi00MzkzLTk0ZjMtYzg4MGM2OGQ3YjkzXkEyXkFqcGdeQXVyMjY3NjE4Mw@@._V1_FMjpg_UX1000_.jpg" group-title="La herencia",Cap. 01
 http://series.tuxchannel.mx/series/la_herencia/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDU4M2YzMDEtOTIyNi00MzkzLTk0ZjMtYzg4MGM2OGQ3YjkzXkEyXkFqcGdeQXVyMjY3NjE4Mw@@._V1_FMjpg_UX1000_.jpg" group-title="La herencia",Cap. 02
@@ -5607,6 +5716,9 @@ http://series.tuxchannel.mx/series/la_herencia/s_01_e_79.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDU4M2YzMDEtOTIyNi00MzkzLTk0ZjMtYzg4MGM2OGQ3YjkzXkEyXkFqcGdeQXVyMjY3NjE4Mw@@._V1_FMjpg_UX1000_.jpg" group-title="La herencia",Cap. 80
 http://series.tuxchannel.mx/series/la_herencia/s_01_e_80.mkv
 
+#===============================================
+#              LA HISTORIA DE JUANA
+#===============================================
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/C8wQP3e.jpeg" group-title="La historia de Juana",Cap. 01
 http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/C8wQP3e.jpeg" group-title="La historia de Juana",Cap. 02
@@ -5736,6 +5848,9 @@ http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_64.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/C8wQP3e.jpeg" group-title="La historia de Juana",Cap. 64
 http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_65.mkv
 
+#===============================================
+#              LA JEFA
+#===============================================
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5PpqPl6OPonNNet7dxCOxXCxkst.jpg" group-title="La jefa",Cap. 001
 http://series.tuxchannel.mx/series/la_jefa/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5PpqPl6OPonNNet7dxCOxXCxkst.jpg" group-title="La jefa",Cap. 002
@@ -5923,6 +6038,9 @@ http://series.tuxchannel.mx/series/la_jefa/s_01_e_94.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5PpqPl6OPonNNet7dxCOxXCxkst.jpg" group-title="La jefa",Cap. 093
 http://series.tuxchannel.mx/series/la_jefa/s_01_e_95.mkv
 
+#===============================================
+#              LA MADRASTRA
+#===============================================
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/8/w1280/om2lmK6ZIYLZCTr4HMiTgIpyXC2.jpg" group-title="La madrastra",Cap. 01
 http://series.tuxchannel.mx/series/la_madrastra/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/8/w1280/om2lmK6ZIYLZCTr4HMiTgIpyXC2.jpg" group-title="La madrastra",Cap. 02
@@ -6016,6 +6134,9 @@ http://series.tuxchannel.mx/series/la_madrastra/s_01_e_49.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/8/w1280/om2lmK6ZIYLZCTr4HMiTgIpyXC2.jpg" group-title="La madrastra",Cap. 46
 http://series.tuxchannel.mx/series/la_madrastra/s_01_e_50.mkv
 
+#===============================================
+#              LA MEXICANA Y EL GÜERO
+#===============================================
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWMwYWEzNjUtYTJjNC00YzBmLWE5ZDEtZjBkODUwNDBjNzc3XkEyXkFqcGdeQXVyMzQxNzU3NA@@._V1_FMjpg_UX1000_.jpg" group-title="La mexicana y el güero",Cap. 001
 http://series.tuxchannel.mx/series/la_mexicana_y_el_guero/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWMwYWEzNjUtYTJjNC00YzBmLWE5ZDEtZjBkODUwNDBjNzc3XkEyXkFqcGdeQXVyMzQxNzU3NA@@._V1_FMjpg_UX1000_.jpg" group-title="La mexicana y el güero",Cap. 002
@@ -6269,6 +6390,9 @@ http://series.tuxchannel.mx/series/la_mexicana_y_el_guero/s_01_e_125.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWMwYWEzNjUtYTJjNC00YzBmLWE5ZDEtZjBkODUwNDBjNzc3XkEyXkFqcGdeQXVyMzQxNzU3NA@@._V1_FMjpg_UX1000_.jpg" group-title="La mexicana y el güero",Cap. 126
 http://series.tuxchannel.mx/series/la_mexicana_y_el_guero/s_01_e_126.mkv
 
+#===============================================
+#              LA REINA DEL FLOW T1
+#===============================================
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/11/22/09/53/4011612.jpg" group-title="La reina del flow T1",Cap. 01
 http://series.tuxchannel.mx/series/la_reina_del_flow/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/11/22/09/53/4011612.jpg" group-title="La reina del flow T1",Cap. 02
@@ -6434,6 +6558,9 @@ http://series.tuxchannel.mx/series/la_reina_del_flow/s_01_e_81.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/11/22/09/53/4011612.jpg" group-title="La reina del flow T1",Cap. 82
 http://series.tuxchannel.mx/series/la_reina_del_flow/s_01_e_82.mkv
 
+#===============================================
+#              LA REINA DEL FLOW T2
+#===============================================
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/5f/09/53/5f09536e2308177cdb32723307cd848e.jpg" group-title="La reina del flow T2",Cap. 01
 http://series.tuxchannel.mx/series/la_reina_del_flow/s_02_e_01.mkv
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/5f/09/53/5f09536e2308177cdb32723307cd848e.jpg" group-title="La reina del flow T2",Cap. 02
@@ -6613,6 +6740,9 @@ http://series.tuxchannel.mx/series/la_reina_del_flow/s_02_e_88.mkv
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/5f/09/53/5f09536e2308177cdb32723307cd848e.jpg" group-title="La reina del flow T2",Cap. 89
 http://series.tuxchannel.mx/series/la_reina_del_flow/s_02_e_89.mkv
 
+#===============================================
+#              LA REINA DEL FLOW T3
+#===============================================
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/The_Queen_of_Flow_season_3_poster.jpg" group-title="La reina del flow T3",Cap. 01
 http://series.tuxchannel.mx/series/la_reina_del_flow/s_03_e_01.mkv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/The_Queen_of_Flow_season_3_poster.jpg" group-title="La reina del flow T3",Cap. 02
@@ -6744,6 +6874,9 @@ http://series.tuxchannel.mx/series/la_reina_del_flow/s_03_e_64.mkv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/The_Queen_of_Flow_season_3_poster.jpg" group-title="La reina del flow T3",Cap. 65
 http://series.tuxchannel.mx/series/la_reina_del_flow/s_03_e_65.mkv
 
+#===============================================
+#              LAS HIJAS DE LA SEÑORA GARCÍA
+#===============================================
 #EXTINF:-1 tvg-logo="http://i.ibb.co/BV7th4Ty/20250304-203930.jpg" group-title="Las hijas de la señora García",Cap. 001
 http://series.tuxchannel.mx/series/las_hijas_de_la_senora_garcia/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="http://i.ibb.co/BV7th4Ty/20250304-203930.jpg" group-title="Las hijas de la señora García",Cap. 002
@@ -6901,6 +7034,9 @@ http://series.tuxchannel.mx/series/las_hijas_de_la_senora_garcia/s_01_e_80.mkv
 #EXTINF:-1 tvg-logo="http://i.ibb.co/BV7th4Ty/20250304-203930.jpg" group-title="Las hijas de la señora García",Cap. 078
 http://series.tuxchannel.mx/series/las_hijas_de_la_senora_garcia/s_01_e_81.mkv
 
+#===============================================
+#              LA SUERTE DE LOLI
+#===============================================
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6cDKolSuoesSRF1cd63Tv8p85kH.jpg" group-title="La suerte de Loli",Cap. 001
 http://series.tuxchannel.mx/series/la_suerte_de_loli/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6cDKolSuoesSRF1cd63Tv8p85kH.jpg" group-title="La suerte de Loli",Cap. 002
@@ -7108,6 +7244,9 @@ http://series.tuxchannel.mx/series/la_suerte_de_loli/s_01_e_102.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6cDKolSuoesSRF1cd63Tv8p85kH.jpg" group-title="La suerte de Loli",Cap. 103
 http://series.tuxchannel.mx/series/la_suerte_de_loli/s_01_e_103.mkv
 
+#===============================================
+#              LA USURPADORA
+#===============================================
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/05/26/10/21/2953080.jpg" group-title="La Usurpadora",Cap. 01
 http://series.tuxchannel.mx/series/la_usurpadora/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/05/26/10/21/2953080.jpg" group-title="La Usurpadora",Cap. 02
@@ -7159,6 +7298,9 @@ http://series.tuxchannel.mx/series/la_usurpadora/s_01_e_24.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/05/26/10/21/2953080.jpg" group-title="La Usurpadora",Cap. 25
 http://series.tuxchannel.mx/series/la_usurpadora/s_01_e_25.mkv
 
+#===============================================
+#              LOBO, MORIR MATANDO
+#===============================================
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lXuKbM1rskx3zMrGfIYPl3EsSSo.jpg" group-title="Lobo, morir matando",Cap. 001
 http://series.tuxchannel.mx/series/lobo_morir_matando/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lXuKbM1rskx3zMrGfIYPl3EsSSo.jpg" group-title="Lobo, morir matando",Cap. 002
@@ -7214,6 +7356,9 @@ http://series.tuxchannel.mx/series/lobo_morir_matando/s_01_e_27.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lXuKbM1rskx3zMrGfIYPl3EsSSo.jpg" group-title="Lobo, morir matando",Cap. 027
 http://series.tuxchannel.mx/series/lobo_morir_matando/s_01_e_28.mkv
 
+#===============================================
+#              LO QUE LA VIDA ME ROBÓ
+#===============================================
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FhHtfaqrGmpvgk6I6ARsqNcOoz9b.jpg" group-title="Lo que la vida me robó",Cap. 001
 http://series.tuxchannel.mx/series/lo_que_la_vida_me_robo/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FhHtfaqrGmpvgk6I6ARsqNcOoz9b.jpg" group-title="Lo que la vida me robó",Cap. 002
@@ -7609,6 +7754,9 @@ http://series.tuxchannel.mx/series/lo_que_la_vida_me_robo/s_01_e_196.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FhHtfaqrGmpvgk6I6ARsqNcOoz9b.jpg" group-title="Lo que la vida me robó",Cap. 197
 http://series.tuxchannel.mx/series/lo_que_la_vida_me_robo/s_01_e_197.mkv
 
+#===============================================
+#              LOS HILOS DEL PASADO
+#===============================================
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k3dGAfWNvr23FQl5e8yDGxv847T.jpg" group-title="Los hilos del pasado",Cap. 001
 http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k3dGAfWNvr23FQl5e8yDGxv847T.jpg" group-title="Los hilos del pasado",Cap. 002
@@ -7730,6 +7878,9 @@ http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_59.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k3dGAfWNvr23FQl5e8yDGxv847T.jpg" group-title="Los hilos del pasado",Cap. 060
 http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_60.mkv
 
+#===============================================
+#              LOS RICOS TAMBIEN LLORAN
+#===============================================
 #EXTINF:-1 tvg-logo="https://telemicro.com.do/wp-content/uploads/2022/04/LOS-RICOS-TAMBIEN-LLORAN.png" group-title="Los ricos tambien lloran",Cap. 01
 http://series.tuxchannel.mx/series/los_ricos_tambien_lloran/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://telemicro.com.do/wp-content/uploads/2022/04/LOS-RICOS-TAMBIEN-LLORAN.png" group-title="Los ricos tambien lloran",Cap. 02
@@ -7851,6 +8002,9 @@ http://series.tuxchannel.mx/series/los_ricos_tambien_lloran/s_01_e_59.mkv
 #EXTINF:-1 tvg-logo="https://telemicro.com.do/wp-content/uploads/2022/04/LOS-RICOS-TAMBIEN-LLORAN.png" group-title="Los ricos tambien lloran",Cap. 60
 http://series.tuxchannel.mx/series/los_ricos_tambien_lloran/s_01_e_60.mkv
 
+#===============================================
+#              MALVERDE: EL SANTO PATRÓN
+#===============================================
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/67treAktbvtXLdwRhtlPjPvV60J.jpg" group-title="Malverde: el santo patrón",Cap. 01
 http://series.tuxchannel.mx/series/malverde_el_santo_patron/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/67treAktbvtXLdwRhtlPjPvV60J.jpg" group-title="Malverde: el santo patrón",Cap. 02
@@ -8012,6 +8166,9 @@ http://series.tuxchannel.mx/series/malverde_el_santo_patron/s_01_e_79.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/67treAktbvtXLdwRhtlPjPvV60J.jpg" group-title="Malverde: el santo patrón",Cap. 80
 http://series.tuxchannel.mx/series/malverde_el_santo_patron/s_01_e_80.mkv
 
+#===============================================
+#              MAREA DE PASIONES
+#===============================================
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4vBK8NbuBeraUDoiFnK0B2P4V9P.jpg" group-title="Marea de pasiones",Cap. 01
 http://series.tuxchannel.mx/series/marea_de_pasiones/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4vBK8NbuBeraUDoiFnK0B2P4V9P.jpg" group-title="Marea de pasiones",Cap. 02
@@ -8143,6 +8300,9 @@ http://series.tuxchannel.mx/series/marea_de_pasiones/s_01_e_64.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4vBK8NbuBeraUDoiFnK0B2P4V9P.jpg" group-title="Marea de pasiones",Cap. 65
 http://series.tuxchannel.mx/series/marea_de_pasiones/s_01_e_65.mkv
 
+#===============================================
+#              ME ATREVO A AMARTE
+#===============================================
 #EXTINF:-1 tvg-logo="http://i.ibb.co/nsg4RGkc/20250304-214129.jpg" group-title="Me atrevo a amarte",Cap. 01
 http://series.tuxchannel.mx/series/me_atrevo_a_amarte/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="http://i.ibb.co/nsg4RGkc/20250304-214129.jpg" group-title="Me atrevo a amarte",Cap. 02
@@ -8314,6 +8474,9 @@ http://series.tuxchannel.mx/series/me_atrevo_a_amarte/s_01_e_85.mkv
 #EXTINF:-1 tvg-logo="http://i.ibb.co/nsg4RGkc/20250304-214129.jpg" group-title="Me atrevo a amarte",Cap. 85
 http://series.tuxchannel.mx/series/me_atrevo_a_amarte/s_01_e_86.mkv
 
+#===============================================
+#              MI AMOR SIN TIEMPO
+#===============================================
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/EpQnSic.jpeg" group-title="Mi amor sin tiempo",Cap. 001
 http://series.tuxchannel.mx/series/mi_amor_sin_tiempo/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/EpQnSic.jpeg" group-title="Mi amor sin tiempo",Cap. 002
@@ -8473,6 +8636,9 @@ http://series.tuxchannel.mx/series/mi_amor_sin_tiempo/s_01_e_79.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/EpQnSic.jpeg" group-title="Mi amor sin tiempo",Cap. 079
 http://series.tuxchannel.mx/series/mi_amor_sin_tiempo/s_01_e_80.mkv
 
+#===============================================
+#              MI FORTUNA ES AMARTE
+#===============================================
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4P1Ps8u2M9XMxQnFIJVBbgL9b40.jpg" group-title="Mi fortuna es amarte",Cap. 01
 http://series.tuxchannel.mx/series/mi_fortuna_es_amarte/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4P1Ps8u2M9XMxQnFIJVBbgL9b40.jpg" group-title="Mi fortuna es amarte",Cap. 02
@@ -8656,6 +8822,9 @@ http://series.tuxchannel.mx/series/mi_fortuna_es_amarte/s_01_e_90.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4P1Ps8u2M9XMxQnFIJVBbgL9b40.jpg" group-title="Mi fortuna es amarte",Cap. 91
 http://series.tuxchannel.mx/series/mi_fortuna_es_amarte/s_01_e_91.mkv
 
+#===============================================
+#              MINAS DE PASIÓN
+#===============================================
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lLJBisfhikqTD0Cj9a2ZJw5kyOe.jpg" group-title="Minas de pasión",Cap. 001
 http://series.tuxchannel.mx/series/minas_de_pasion/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lLJBisfhikqTD0Cj9a2ZJw5kyOe.jpg" group-title="Minas de pasión",Cap. 002
@@ -8863,6 +9032,9 @@ http://series.tuxchannel.mx/series/minas_de_pasion/s_01_e_105.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lLJBisfhikqTD0Cj9a2ZJw5kyOe.jpg" group-title="Minas de pasión",Cap. 103
 http://series.tuxchannel.mx/series/minas_de_pasion/s_01_e_106.mkv
 
+#===============================================
+#              MI RIVAL
+#===============================================
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cZVOZl7Xx2G1BdKC1Apx2GxobcO.jpg" group-title="Mi rival",Cap. 001
 http://series.tuxchannel.mx/series/mi_rival/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cZVOZl7Xx2G1BdKC1Apx2GxobcO.jpg" group-title="Mi rival",Cap. 002
@@ -8904,6 +9076,9 @@ http://series.tuxchannel.mx/series/mi_rival/s_01_e_19.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cZVOZl7Xx2G1BdKC1Apx2GxobcO.jpg" group-title="Mi rival",Cap. 020
 http://series.tuxchannel.mx/series/mi_rival/s_01_e_20.mkv
 
+#===============================================
+#              MI VERDAD OCULTA
+#===============================================
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/v79ifn3vf3Ms2LXahn3Si3RIAMV.jpg" group-title="Mi verdad oculta",Cap. 001
 http://series.tuxchannel.mx/series/mi_verdad_oculta/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/v79ifn3vf3Ms2LXahn3Si3RIAMV.jpg" group-title="Mi verdad oculta",Cap. 002
@@ -9059,6 +9234,9 @@ http://series.tuxchannel.mx/series/mi_verdad_oculta/s_01_e_80.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/v79ifn3vf3Ms2LXahn3Si3RIAMV.jpg" group-title="Mi verdad oculta",Cap. 077
 http://series.tuxchannel.mx/series/mi_verdad_oculta/s_01_e_81.mkv
 
+#===============================================
+#              MUJER DE NADIE
+#===============================================
 #EXTINF:-1 tvg-logo="https://elcomercio.pe/resizer/Oucr97cxCOHqZOFw4i4AR7xNHHs=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/74FLNCOU75C67KBFF5OVIB7LSY.jpg" group-title="Mujer de nadie",Cap. 01
 http://series.tuxchannel.mx/series/mujer_de_nadie/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://elcomercio.pe/resizer/Oucr97cxCOHqZOFw4i4AR7xNHHs=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/74FLNCOU75C67KBFF5OVIB7LSY.jpg" group-title="Mujer de nadie",Cap. 02
@@ -9150,6 +9328,9 @@ http://series.tuxchannel.mx/series/mujer_de_nadie/s_01_e_44.mkv
 #EXTINF:-1 tvg-logo="https://elcomercio.pe/resizer/Oucr97cxCOHqZOFw4i4AR7xNHHs=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/74FLNCOU75C67KBFF5OVIB7LSY.jpg" group-title="Mujer de nadie",Cap. 45
 http://series.tuxchannel.mx/series/mujer_de_nadie/s_01_e_45.mkv
 
+#===============================================
+#              NADIE COMO TÚ
+#===============================================
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u8VNtVYD21VeHG8Fmwn06zHHWmj.jpg" group-title="Nadie como tú",Cap. 001
 http://series.tuxchannel.mx/series/nadie_como_tu/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u8VNtVYD21VeHG8Fmwn06zHHWmj.jpg" group-title="Nadie como tú",Cap. 002
@@ -9377,6 +9558,9 @@ http://series.tuxchannel.mx/series/nadie_como_tu/s_01_e_120.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u8VNtVYD21VeHG8Fmwn06zHHWmj.jpg" group-title="Nadie como tú",Cap. 113
 http://series.tuxchannel.mx/series/nadie_como_tu/s_01_e_121.mkv
 
+#===============================================
+#              NO TE PUEDES ESCONDER T1
+#===============================================
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/21/17/15/5358418.jpg" group-title="No te puedes esconder T1",Cap. 01
 http://series.tuxchannel.mx/series/no_te_puedes_esconder/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/21/17/15/5358418.jpg" group-title="No te puedes esconder T1",Cap. 02
@@ -9398,6 +9582,9 @@ http://series.tuxchannel.mx/series/no_te_puedes_esconder/s_01_e_09.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/21/17/15/5358418.jpg" group-title="No te puedes esconder T1",Cap. 10
 http://series.tuxchannel.mx/series/no_te_puedes_esconder/s_01_e_10.mkv
 
+#===============================================
+#              OPERACIÓN PACÍFICO
+#===============================================
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmVlOGE4YTEtOTQ1NC00NmRmLWJhN2EtNzUxOGI1MTQ1M2ZmXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg" group-title="Operación Pacífico",Cap. 01
 http://series.tuxchannel.mx/series/operacion_pacifico/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmVlOGE4YTEtOTQ1NC00NmRmLWJhN2EtNzUxOGI1MTQ1M2ZmXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg" group-title="Operación Pacífico",Cap. 02
@@ -9487,6 +9674,9 @@ http://series.tuxchannel.mx/series/operacion_pacifico/s_01_e_43.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmVlOGE4YTEtOTQ1NC00NmRmLWJhN2EtNzUxOGI1MTQ1M2ZmXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg" group-title="Operación Pacífico",Cap. 44
 http://series.tuxchannel.mx/series/operacion_pacifico/s_01_e_44.mkv
 
+#===============================================
+#              PAPÁS POR CONVENIENCIA
+#===============================================
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/EUC0csa.jpeg" group-title="Papás por conveniencia",Cap. 001
 http://series.tuxchannel.mx/series/papas_por_conveniencia/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/EUC0csa.jpeg" group-title="Papás por conveniencia",Cap. 002
@@ -9642,6 +9832,9 @@ http://series.tuxchannel.mx/series/papas_por_conveniencia/s_01_e_79.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/EUC0csa.jpeg" group-title="Papás por conveniencia",Cap. 077
 http://series.tuxchannel.mx/series/papas_por_conveniencia/s_01_e_80.mkv
 
+#===============================================
+#              PAPÁS POR SIEMPRE
+#===============================================
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w7P7D0Tfm4JohRcGJehC50F6N7x.jpg" group-title="Papás por siempre",Cap. 001
 http://series.tuxchannel.mx/series/papas_por_siempre/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w7P7D0Tfm4JohRcGJehC50F6N7x.jpg" group-title="Papás por siempre",Cap. 002
@@ -9805,6 +9998,9 @@ http://series.tuxchannel.mx/series/papas_por_siempre/s_01_e_81.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w7P7D0Tfm4JohRcGJehC50F6N7x.jpg" group-title="Papás por siempre",Cap. 081
 http://series.tuxchannel.mx/series/papas_por_siempre/s_01_e_82.mkv
 
+#===============================================
+#              PARIENTES A LA FUERZA
+#===============================================
 #EXTINF:-1 tvg-logo="https://www.gannett-cdn.com/presto/2021/10/18/PPHXS/6d09cef1-88ee-4ec2-8ee1-7419d56fc587-parientes2.png" group-title="Parientes a la fuerza",Cap. 01
 http://series.tuxchannel.mx/series/parientes_a_la_fuerza/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://www.gannett-cdn.com/presto/2021/10/18/PPHXS/6d09cef1-88ee-4ec2-8ee1-7419d56fc587-parientes2.png" group-title="Parientes a la fuerza",Cap. 02
@@ -10000,6 +10196,9 @@ http://series.tuxchannel.mx/series/parientes_a_la_fuerza/s_01_e_96.mkv
 #EXTINF:-1 tvg-logo="https://www.gannett-cdn.com/presto/2021/10/18/PPHXS/6d09cef1-88ee-4ec2-8ee1-7419d56fc587-parientes2.png" group-title="Parientes a la fuerza",Cap. 97
 http://series.tuxchannel.mx/series/parientes_a_la_fuerza/s_01_e_97.mkv
 
+#===============================================
+#              PERDONA NUESTROS PECADOS
+#===============================================
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Perdona_nuestros_pecados_Mexican_TV_series_poster.jpg/250px-Perdona_nuestros_pecados_Mexican_TV_series_poster.jpg" group-title="Perdona nuestros pecados",Cap. 01
 http://series.tuxchannel.mx/series/perdona_nuestros_pecados/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Perdona_nuestros_pecados_Mexican_TV_series_poster.jpg/250px-Perdona_nuestros_pecados_Mexican_TV_series_poster.jpg" group-title="Perdona nuestros pecados",Cap. 02
@@ -10179,6 +10378,9 @@ http://series.tuxchannel.mx/series/perdona_nuestros_pecados/s_01_e_90.mkv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Perdona_nuestros_pecados_Mexican_TV_series_poster.jpg/250px-Perdona_nuestros_pecados_Mexican_TV_series_poster.jpg" group-title="Perdona nuestros pecados",Cap. 89
 http://series.tuxchannel.mx/series/perdona_nuestros_pecados/s_01_e_90.mkv
 
+#===============================================
+#              PIENSO EN TI
+#===============================================
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDVmODEyMmMtZGQ1NC00YmU1LTkyYTktYjBmYTM2YWU3YjgzXkEyXkFqcGdeQXVyMjY3NjE4Mw@@._V1_FMjpg_UX1000_.jpg" group-title="Pienso en ti",Cap. 01
 http://series.tuxchannel.mx/series/pienso_en_ti/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDVmODEyMmMtZGQ1NC00YmU1LTkyYTktYjBmYTM2YWU3YjgzXkEyXkFqcGdeQXVyMjY3NjE4Mw@@._V1_FMjpg_UX1000_.jpg" group-title="Pienso en ti",Cap. 02
@@ -10324,6 +10526,9 @@ http://series.tuxchannel.mx/series/pienso_en_ti/s_01_e_74.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDVmODEyMmMtZGQ1NC00YmU1LTkyYTktYjBmYTM2YWU3YjgzXkEyXkFqcGdeQXVyMjY3NjE4Mw@@._V1_FMjpg_UX1000_.jpg" group-title="Pienso en ti",Cap. 72
 http://series.tuxchannel.mx/series/pienso_en_ti/s_01_e_75.mkv
 
+#===============================================
+#              PRESO NO. 1
+#===============================================
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/12/03/12/27/3860013.jpg" group-title="Preso No. 1",Cap. 01
 http://series.tuxchannel.mx/series/preso_no_1/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/12/03/12/27/3860013.jpg" group-title="Preso No. 1",Cap. 02
@@ -10413,6 +10618,9 @@ http://series.tuxchannel.mx/series/preso_no_1/s_01_e_43.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/12/03/12/27/3860013.jpg" group-title="Preso No. 1",Cap. 44
 http://series.tuxchannel.mx/series/preso_no_1/s_01_e_44.mkv
 
+#===============================================
+#              ¿QUÉ LE PASA A MI FAMILIA?
+#===============================================
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzU1ZmU0YzQtYzJmNi00MzUyLWJiZGUtYjE3NjAwYzFkMDczXkEyXkFqcGdeQXVyMjY3NjE4Mw@@._V1_.jpg" group-title="¿Qué le pasa a mi familia?",Cap. 001
 http://series.tuxchannel.mx/series/que_le_pasa_a_mi_familia/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzU1ZmU0YzQtYzJmNi00MzUyLWJiZGUtYjE3NjAwYzFkMDczXkEyXkFqcGdeQXVyMjY3NjE4Mw@@._V1_.jpg" group-title="¿Qué le pasa a mi familia?",Cap. 002
@@ -10616,6 +10824,9 @@ http://series.tuxchannel.mx/series/que_le_pasa_a_mi_familia/s_01_e_100.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzU1ZmU0YzQtYzJmNi00MzUyLWJiZGUtYjE3NjAwYzFkMDczXkEyXkFqcGdeQXVyMjY3NjE4Mw@@._V1_.jpg" group-title="¿Qué le pasa a mi familia?",Cap. 101
 http://series.tuxchannel.mx/series/que_le_pasa_a_mi_familia/s_01_e_101.mkv
 
+#===============================================
+#              QUERERLO TODO
+#===============================================
 #EXTINF:-1 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/quererlotodo-1614066205.jpg" group-title="Quererlo todo",Cap. 001
 http://series.tuxchannel.mx/series/quererlo_todo/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/quererlotodo-1614066205.jpg" group-title="Quererlo todo",Cap. 002
@@ -10859,6 +11070,9 @@ http://series.tuxchannel.mx/series/quererlo_todo/s_01_e_120.mkv
 #EXTINF:-1 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/quererlotodo-1614066205.jpg" group-title="Quererlo todo",Cap. 121
 http://series.tuxchannel.mx/series/quererlo_todo/s_01_e_121.mkv
 
+#===============================================
+#              REGALO DE AMOR
+#===============================================
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ys1Y3G25PHFHpLU5IVkCEQJK8BP.jpg" group-title="Regalo de amor",Cap. 001
 http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ys1Y3G25PHFHpLU5IVkCEQJK8BP.jpg" group-title="Regalo de amor",Cap. 002
@@ -11058,6 +11272,9 @@ http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_99.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ys1Y3G25PHFHpLU5IVkCEQJK8BP.jpg" group-title="Regalo de amor",Cap. 099
 http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_100.mkv
 
+#===============================================
+#              SIN MIEDO A LA VERDAD T1
+#===============================================
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f2/7e/8d/f27e8d966c371621e7122967b2deebfe.jpg" group-title="Sin miedo a la verdad T1",Cap. 01
 http://series.tuxchannel.mx/series/sin_miedo_a_la_verdad/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f2/7e/8d/f27e8d966c371621e7122967b2deebfe.jpg" group-title="Sin miedo a la verdad T1",Cap. 02
@@ -11101,6 +11318,9 @@ http://series.tuxchannel.mx/series/sin_miedo_a_la_verdad/s_01_e_20.mkv
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f2/7e/8d/f27e8d966c371621e7122967b2deebfe.jpg" group-title="Sin miedo a la verdad T1",Cap. 21
 http://series.tuxchannel.mx/series/sin_miedo_a_la_verdad/s_01_e_21.mkv
 
+#===============================================
+#              SIN MIEDO A LA VERDAD T2
+#===============================================
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/8os6WLV.jpeg" group-title="Sin miedo a la verdad T2",Cap. 01
 http://series.tuxchannel.mx/series/sin_miedo_a_la_verdad/s_02_e_01.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/8os6WLV.jpeg" group-title="Sin miedo a la verdad T2",Cap. 02
@@ -11150,6 +11370,9 @@ http://series.tuxchannel.mx/series/sin_miedo_a_la_verdad/s_02_e_23.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/8os6WLV.jpeg" group-title="Sin miedo a la verdad T2",Cap. 24
 http://series.tuxchannel.mx/series/sin_miedo_a_la_verdad/s_02_e_24.mkv
 
+#===============================================
+#              SIN MIEDO A LA VERDAD T3
+#===============================================
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Q3OGU3OTMtZDQ3Zi00ZTA2LTgwNDctOTJlNjc1NTE0MDk3XkEyXkFqcGdeQXVyMjY3NjE4Mw@@._V1_.jpg" group-title="Sin miedo a la verdad T3",Cap. 01
 http://series.tuxchannel.mx/series/sin_miedo_a_la_verdad/s_03_e_01.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Q3OGU3OTMtZDQ3Zi00ZTA2LTgwNDctOTJlNjc1NTE0MDk3XkEyXkFqcGdeQXVyMjY3NjE4Mw@@._V1_.jpg" group-title="Sin miedo a la verdad T3",Cap. 02
@@ -11221,6 +11444,9 @@ http://series.tuxchannel.mx/series/sin_miedo_a_la_verdad/s_03_e_34.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Q3OGU3OTMtZDQ3Zi00ZTA2LTgwNDctOTJlNjc1NTE0MDk3XkEyXkFqcGdeQXVyMjY3NjE4Mw@@._V1_.jpg" group-title="Sin miedo a la verdad T3",Cap. 35
 http://series.tuxchannel.mx/series/sin_miedo_a_la_verdad/s_03_e_35.mkv
 
+#===============================================
+#              SI NOS DEJAN
+#===============================================
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/WSVadXbkEc2K6c0WIiodzwrDsx.jpg" group-title="Si nos dejan",Cap. 01
 http://series.tuxchannel.mx/series/si_nos_dejan/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/WSVadXbkEc2K6c0WIiodzwrDsx.jpg" group-title="Si nos dejan",Cap. 02
@@ -11388,6 +11614,9 @@ http://series.tuxchannel.mx/series/si_nos_dejan/s_01_e_82.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/WSVadXbkEc2K6c0WIiodzwrDsx.jpg" group-title="Si nos dejan",Cap. 83
 http://series.tuxchannel.mx/series/si_nos_dejan/s_01_e_83.mkv
 
+#===============================================
+#              SIN SENOS NO HAY PARAISO
+#===============================================
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/25/12/57/1969230.jpg" group-title="Sin senos no hay paraiso",Cap. 01
 http://series.tuxchannel.mx/series/sin_senos_no_hay_paraiso/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/25/12/57/1969230.jpg" group-title="Sin senos no hay paraiso",Cap. 02
@@ -11723,6 +11952,9 @@ http://series.tuxchannel.mx/series/sin_senos_no_hay_paraiso/s_01_e_166.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/25/12/57/1969230.jpg" group-title="Sin senos no hay paraiso",Cap. 167
 http://series.tuxchannel.mx/series/sin_senos_no_hay_paraiso/s_01_e_167.mkv
 
+#===============================================
+#              SOLTERO CON HIJAS
+#===============================================
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/k6OK41OFAE8gzj6TvAeq0gmKhVw.jpg" group-title="Soltero con hijas",Cap. 01
 http://series.tuxchannel.mx/series/soltero_con_hijas/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/k6OK41OFAE8gzj6TvAeq0gmKhVw.jpg" group-title="Soltero con hijas",Cap. 02
@@ -11896,6 +12128,9 @@ http://series.tuxchannel.mx/series/soltero_con_hijas/s_01_e_85.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/k6OK41OFAE8gzj6TvAeq0gmKhVw.jpg" group-title="Soltero con hijas",Cap. 86
 http://series.tuxchannel.mx/series/soltero_con_hijas/s_01_e_86.mkv
 
+#===============================================
+#              S.O.S. ME ESTOY ENAMORANDO
+#===============================================
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/phYXHG3zJxCZMqACEcwXw1h8l59.jpg" group-title="S.O.S. me estoy enamorando",Cap. 01
 http://series.tuxchannel.mx/series/sos_me_estoy_enamorando/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/phYXHG3zJxCZMqACEcwXw1h8l59.jpg" group-title="S.O.S. me estoy enamorando",Cap. 02
@@ -12089,6 +12324,9 @@ http://series.tuxchannel.mx/series/sos_me_estoy_enamorando/s_01_e_95.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/phYXHG3zJxCZMqACEcwXw1h8l59.jpg" group-title="S.O.S. me estoy enamorando",Cap. 96
 http://series.tuxchannel.mx/series/sos_me_estoy_enamorando/s_01_e_96.mkv
 
+#===============================================
+#              TE ACUERDAS DE MÍ
+#===============================================
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/1/w1280/fSwxsb921cb9KozWVBjq4IYSdEU.jpg" group-title="Te acuerdas de mí",Cap. 01
 http://series.tuxchannel.mx/series/te_acuerdas_de_mi/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/1/w1280/fSwxsb921cb9KozWVBjq4IYSdEU.jpg" group-title="Te acuerdas de mí",Cap. 02
@@ -12242,6 +12480,9 @@ http://series.tuxchannel.mx/series/te_acuerdas_de_mi/s_01_e_75.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/1/w1280/fSwxsb921cb9KozWVBjq4IYSdEU.jpg" group-title="Te acuerdas de mí",Cap. 76
 http://series.tuxchannel.mx/series/te_acuerdas_de_mi/s_01_e_76.mkv
 
+#===============================================
+#              TIERRA DE ESPERANZA
+#===============================================
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzQ3MGIzYjAtMjM0OC00ODNiLTg0Y2UtYTBjMjhhYmJkNDNlXkEyXkFqcGdeQXVyMzQxNzU3NA@@._V1_.jpg" group-title="Tierra de esperanza",Cap. 01
 http://series.tuxchannel.mx/series/tierra_de_esperanza/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzQ3MGIzYjAtMjM0OC00ODNiLTg0Y2UtYTBjMjhhYmJkNDNlXkEyXkFqcGdeQXVyMzQxNzU3NA@@._V1_.jpg" group-title="Tierra de esperanza",Cap. 02
@@ -12361,6 +12602,9 @@ http://series.tuxchannel.mx/series/tierra_de_esperanza/s_01_e_59.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzQ3MGIzYjAtMjM0OC00ODNiLTg0Y2UtYTBjMjhhYmJkNDNlXkEyXkFqcGdeQXVyMzQxNzU3NA@@._V1_.jpg" group-title="Tierra de esperanza",Cap. 59
 http://series.tuxchannel.mx/series/tierra_de_esperanza/s_01_e_60.mkv
 
+#===============================================
+#              TU VIDA ES MI VIDA
+#===============================================
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k58tPG0q3h2umXDQWQ5m4kw03eR.jpg" group-title="Tu vida es mi vida",Cap. 01
 http://series.tuxchannel.mx/series/tu_vida_es_mi_vida/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k58tPG0q3h2umXDQWQ5m4kw03eR.jpg" group-title="Tu vida es mi vida",Cap. 02
@@ -12544,6 +12788,9 @@ http://series.tuxchannel.mx/series/tu_vida_es_mi_vida/s_01_e_90.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k58tPG0q3h2umXDQWQ5m4kw03eR.jpg" group-title="Tu vida es mi vida",Cap. 91
 http://series.tuxchannel.mx/series/tu_vida_es_mi_vida/s_01_e_91.mkv
 
+#===============================================
+#              VELVET: EL NUEVO IMPERIO
+#===============================================
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o08c24rmmz6mnZzkTidr1gHTNix.jpg" group-title="Velvet: El nuevo imperio",Cap. 01
 http://series.tuxchannel.mx/series/velvet_el_nuevo_imperio/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o08c24rmmz6mnZzkTidr1gHTNix.jpg" group-title="Velvet: El nuevo imperio",Cap. 02
@@ -12725,6 +12972,9 @@ http://series.tuxchannel.mx/series/velvet_el_nuevo_imperio/s_01_e_90.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o08c24rmmz6mnZzkTidr1gHTNix.jpg" group-title="Velvet: El nuevo imperio",Cap. 90
 http://series.tuxchannel.mx/series/velvet_el_nuevo_imperio/s_01_e_91.mkv
 
+#===============================================
+#              VENCER EL DESAMOR
+#===============================================
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/2a/d3/99/2ad39910445a91dea9cd3a5be636f45a.jpg" group-title="Vencer el desamor",Cap. 01
 http://series.tuxchannel.mx/series/vencer_el_desamor/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/2a/d3/99/2ad39910445a91dea9cd3a5be636f45a.jpg" group-title="Vencer el desamor",Cap. 02
@@ -12912,6 +13162,9 @@ http://series.tuxchannel.mx/series/vencer_el_desamor/s_01_e_92.mkv
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/2a/d3/99/2ad39910445a91dea9cd3a5be636f45a.jpg" group-title="Vencer el desamor",Cap. 93
 http://series.tuxchannel.mx/series/vencer_el_desamor/s_01_e_93.mkv
 
+#===============================================
+#              VENCER EL PASADO
+#===============================================
 #EXTINF:-1 tvg-logo="https://imgsrc.cineserie.com/2021/07/1862157.jpg" group-title="Vencer el pasado",Cap. 01
 http://series.tuxchannel.mx/series/vencer_el_pasado/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://imgsrc.cineserie.com/2021/07/1862157.jpg" group-title="Vencer el pasado",Cap. 02
@@ -13083,6 +13336,9 @@ http://series.tuxchannel.mx/series/vencer_el_pasado/s_01_e_84.mkv
 #EXTINF:-1 tvg-logo="https://imgsrc.cineserie.com/2021/07/1862157.jpg" group-title="Vencer el pasado",Cap. 85
 http://series.tuxchannel.mx/series/vencer_el_pasado/s_01_e_85.mkv
 
+#===============================================
+#              VENCER LA CULPA
+#===============================================
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2E1MzQ2OWMtODk0My00YzkwLWFmNzUtNjNlNTBmODM1MDllXkEyXkFqcGdeQXVyMzQxNzU3NA@@._V1_FMjpg_UX1000_.jpg" group-title="Vencer la culpa",Cap. 01
 http://series.tuxchannel.mx/series/vencer_la_culpa/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2E1MzQ2OWMtODk0My00YzkwLWFmNzUtNjNlNTBmODM1MDllXkEyXkFqcGdeQXVyMzQxNzU3NA@@._V1_FMjpg_UX1000_.jpg" group-title="Vencer la culpa",Cap. 02
@@ -13194,6 +13450,9 @@ http://series.tuxchannel.mx/series/vencer_la_culpa/s_01_e_54.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2E1MzQ2OWMtODk0My00YzkwLWFmNzUtNjNlNTBmODM1MDllXkEyXkFqcGdeQXVyMzQxNzU3NA@@._V1_FMjpg_UX1000_.jpg" group-title="Vencer la culpa",Cap. 55
 http://series.tuxchannel.mx/series/vencer_la_culpa/s_01_e_55.mkv
 
+#===============================================
+#              VIVIR DE AMOR
+#===============================================
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5I0koi3lvHtGDhYvfAkLssQKEGO.jpg" group-title="Vivir de amor",Cap. 001
 http://series.tuxchannel.mx/series/vivir_de_amor/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5I0koi3lvHtGDhYvfAkLssQKEGO.jpg" group-title="Vivir de amor",Cap. 002
@@ -13455,6 +13714,9 @@ http://series.tuxchannel.mx/series/vivir_de_amor/s_01_e_129.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5I0koi3lvHtGDhYvfAkLssQKEGO.jpg" group-title="Vivir de amor",Cap. 130
 http://series.tuxchannel.mx/series/vivir_de_amor/s_01_e_130.mkv
 
+#===============================================
+#              VUELVE A MÍ
+#===============================================
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsGgYl7voI8T34azn5biA0MRpG3c.jpg" group-title="Vuelve a mí",Cap. 01
 http://series.tuxchannel.mx/series/vuelve_a_mi/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsGgYl7voI8T34azn5biA0MRpG3c.jpg" group-title="Vuelve a mí",Cap. 02
